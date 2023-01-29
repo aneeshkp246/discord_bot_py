@@ -46,7 +46,7 @@ givequote: Quotable is a free, open source quotations API. It was originally bui
 
 givejoke: chucknorris is a free JSON API for hand curated Chuck Norris facts. For more infromation, check them out [here](https://api.chucknorris.io/).
 
-giveheadline: Gives the headline of specified region, category and more along with providing the url of the newa using News API. You need to sign in and get an API key to use this. For that you can refer [here](https://newsapi.org/).
+giveheadline: Gives the headline of specified region, category and more along with providing the url of the news using News API. You need to sign in and get an API key to use this. For that you can refer [here](https://newsapi.org/).
 
 givetemp: Gives temperature of specifies latitude and longitude in degree celcius and fahrenheit and also the humidity using OpenWeatherMap's API. You need to sign in and get an API key to use this. For that you can refer [here](https://openweathermap.org/).
 
