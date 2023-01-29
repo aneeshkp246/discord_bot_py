@@ -97,6 +97,6 @@ async def giverating(ctx, *, title: str = commands.parameter(description="- Titl
                    f" goes like this: {response.json()['Plot']}\n{response.json()['Poster']}")
 
 
-token = 'your_bot_token'
+token = 'your_discord_bot_token'
 
 bot.run(token)
