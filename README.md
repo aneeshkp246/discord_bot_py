@@ -73,7 +73,7 @@ givememe: Gives memes from Reditt using Meme API. Its documentation is [here](ht
 giverating: Gives IMDb rating of a movie/series entered (as it is from Google), its plot summary and poster using OMDb API. You need to sign in and get an API key to use this. For that you can refer [here](https://www.omdbapi.com/).
 An example of usage is given here:
 
-```!giverating RRR```
+```!giverating Interstellar```
 
 
 # License
