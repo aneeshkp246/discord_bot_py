@@ -28,12 +28,15 @@ Step 9: Select your Discord server in order to add your bot.
 
 # Installation
 Github:
+
       ```$ git clone https://github.com/aneeshkp246/discord_bot_py```
       
 Python Packages:
+
       ```pip install -r requirements.txt```
       
 Or just:
+
       ```pip install discord.py```
       
 The official documentation of discord.py is [here](https://discordpy.readthedocs.io/en/latest/index.html).
