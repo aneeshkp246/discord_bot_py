@@ -28,10 +28,17 @@ Step 9: Select your Discord server in order to add your bot.
 
 # Installation
 Github:
+      ```https://github.com/aneeshkp246/discord_bot_py.git```
       
-Next, you will need to install the Discord.py library for Python, which allows you to interact with the Discord API. This can be done by running the following command in the terminal: 
+Python Packages:
+      ```pip install -r requirements.txt```
 
-```pip install discord.py```
+# Setup
+
+1. Open discord_bot.py
+2. Replace your discord bot token and other API keys needed.
+
+# Usage
 
 To start the bot you simply need to launch, either your terminal (Linux, Mac & Windows), or your Command Prompt ( Windows) .`
 
@@ -58,5 +65,7 @@ givememe: Gives memes from Reditt using Meme API. Its documentation is [here](ht
 giverating: Gives IMDb rating of a movie/series entered (as it is from Google), its plot summary and poster using OMDb API. You need to sign in and get an API key to use this. For that you can refer [here](https://www.omdbapi.com/).
 
 
+# License
 
+MIT © aneeshkp246
 
