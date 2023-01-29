@@ -91,7 +91,7 @@ async def giverating(ctx, *, title: str = commands.parameter(description="- Titl
     omdb_api_key = 'your_api_key_here'
     url = f"http://www.omdbapi.com/?apikey={omdb_api_key}&t={title}"
     response = requests.get(url)
-    await ctx.send(f"The IMDb rating of the movie/series \"{title}\"({response.json()['Year']}) is "
+    await ctx.send(f"The IMDb rating of the movie/series \"{response.json()['Title']}\"({response.json()['Year']}) is "
                    f"{response.json()['imdbRating']} stars out of 10.\n\nThe plot "
                    f"description"
                    f" goes like this: {response.json()['Plot']}\n{response.json()['Poster']}")
