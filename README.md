@@ -33,6 +33,10 @@ To start the bot you simply need to launch, either your terminal (Linux, Mac & W
 Before running the bot you will need to install all the requirements with this command:
 ```python -m pip install -r requirements.txt```
 
+After that you can start it with
+
+```python discord_bot.py```
+
 After running the file, the bot appears online in the server member list.
 
 You can type !help in the discord server to see the available commands and their description. You need to prefix "!" to every command to trigger the particular function.
