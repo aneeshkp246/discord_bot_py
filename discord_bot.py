@@ -27,7 +27,7 @@ async def ping(ctx):
 
 
 @bot.command(
-    help="Gives you a motivation to cut a mountain",
+    help="Gives you a motivation to cut a mountain :)",
     brief="Gives quotes to boost your confidence"
 )
 async def givequote(ctx):
