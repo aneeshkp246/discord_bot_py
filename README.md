@@ -35,6 +35,8 @@ Python Packages:
       
 Or just:
       ```pip install discord.py```
+      
+The official documentation of discord.py is [here](https://discordpy.readthedocs.io/en/latest/index.html).
 
 # Setup
 
