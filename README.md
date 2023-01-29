@@ -33,11 +33,11 @@ Github:
       
 Python Packages:
 
-      ```pip install -r requirements.txt```
+```pip install -r requirements.txt```
       
 Or just:
 
-      ```pip install discord.py```
+```pip install discord.py```
       
 The official documentation of discord.py is [here](https://discordpy.readthedocs.io/en/latest/index.html).
 
