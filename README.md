@@ -48,7 +48,7 @@ giveheadline: Gives the headline of specified region, category and more with the
 
 givetemp: Gives temperature of specifies latitude and longitude in degree celcius and fahrenheit and also the humidity using OpenWeatherMap's API. You need to sign in and get an API key to use this. For that you can refer [here](https://openweathermap.org/).
 
-givememe: Gives memes from Reditt using Reditt's API. Its documentation is [here](https://github.com/D3vd/Meme_Api).
+givememe: Gives memes from Reditt using Meme API. Its documentation is [here](https://github.com/D3vd/Meme_Api).
 
 giverating: Gives IMDb rating of a movie/series entered (as it is from Google), its plot summary and poster using OMDb API. You need to sign in and get an API key to use this. For that you can refer [here](https://www.omdbapi.com/).
 
