@@ -35,9 +35,22 @@ Before running the bot you will need to install all the requirements with this c
 
 After running the file, the bot appears online in the server member list.
 
+You can type !help in the discord server to see the available commands and their description. You need to prefix "!" to every command to trigger the particular function.
+
 # Using the APIs in the file
 
-givequote: Quotable is a free, open source quotations API. It was originally built as part of a FreeCodeCamp project. You can check their github [here]{https://github.com/lukePeavey/quotable}
+givequote: Quotable is a free, open source quotations API. It was originally built as part of a FreeCodeCamp project. You can check their github [here](https://github.com/lukePeavey/quotable).
+
+givejoke: chucknorris is a free JSON API for hand curated Chuck Norris facts. For more infromation, check them out [here](https://api.chucknorris.io/).
+
+giveheadline: Gives the headline of specified region, category and more with the url using News API. You need to sign in and get an API key to use this. For that you can refer [here](https://newsapi.org/).
+
+givetemp: Gives temperature of specifies latitude and longitude in degree celcius and fahrenheit and also the humidity using OpenWeatherMap's API. You need to sign in and get an API key to use this. For that you can refer [here](https://openweathermap.org/).
+
+givememe: Gives memes from Reditt using Reditt's API. Its documentation is [here](https://github.com/D3vd/Meme_Api).
+
+giverating: Gives IMDb rating of a movie/series entered (as it is from Google), its plot summary and poster using OMDb API. You need to sign in and get an API key to use this. For that you can refer [here](https://www.omdbapi.com/).
+
 
 
 
