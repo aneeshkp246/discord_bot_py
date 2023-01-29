@@ -32,6 +32,9 @@ Github:
       
 Python Packages:
       ```pip install -r requirements.txt```
+      
+Or just:
+      ```pip install discord.py```
 
 # Setup
 
