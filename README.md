@@ -26,7 +26,7 @@ Click on “Copy” to add the bot link to your server.
       
 Step 9: Select your Discord server in order to add your bot.
 
-Next, you will need to install the Discord.py library for Python, which allows you to interact with the Discord API. This can be done by running the following command: ```pip install discord.py```
+Next, you will need to install the Discord.py library for Python, which allows you to interact with the Discord API. This can be done by running the following command in the terminal: ```pip install discord.py```
 
 To start the bot you simply need to launch, either your terminal (Linux, Mac & Windows), or your Command Prompt ( Windows) .`
 
